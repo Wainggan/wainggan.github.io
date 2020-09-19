@@ -36,6 +36,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#1 No. You can die for all I care
+# 1 No. You can die for all I care
 
 Yes. It's true. KILL _**W A I N G G A N**_
